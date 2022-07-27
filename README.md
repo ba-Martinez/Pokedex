@@ -10,4 +10,4 @@
 
 # Layout 👀
 
-<img src="https://uploaddeimagens.com.br/imagens/-SdZsbU"></img>
+<img src="https://uploaddeimagens.com.br/imagens/-SdZsbU" width:"100%" align="middle">
